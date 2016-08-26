@@ -1,4 +1,4 @@
-# Category groups referenced in many categories, should be defined before being referenced.
+# Category groups referenced in many categories, should be defined before being referenced. test
 @food
 en:Food
 cs:Jídlo
